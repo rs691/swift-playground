@@ -1,0 +1,11 @@
+{
+    "name": "Swift",
+    "image": "swift:6.0",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "sswg.swift-lang"
+            ]
+        }
+    }
+}
